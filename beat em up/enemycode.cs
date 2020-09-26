@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+//most of this script has been removed.
+
 public class enemycode : MonoBehaviour
 {
 
